@@ -1,15 +1,14 @@
 <!-- Monisha's GitHub Profile ReadMe -->
 
+<!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://github.com/monishaashok/monishaashok/blob/main/banner.gif" alt="Coding Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad,9b59b6,c39bd3&height=200&section=header&text=Hi%20I'm%20Monisha!&fontSize=45&fontColor=ffffff" />
 </p>
 
-<div align="center">
-
-  <h1 style="color:#8e44ad;">Hi 👋, I'm <span style="color:#2980b9;">Monisha A</span></h1>
-  <h3 style="color:#16a085;">🚀 Java Full Stack Developer | Frontend Enthusiast </h3>
-
-</div>
+<!-- Typing Animation -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=8E44AD&background=00000000&width=600&lines=Java+Full+Stack+Developer;Electronics+Engineer+%7C+UI+Lover;Learning+MongoDB+%7C+React+%7C+Spring+Boot;Frontend+and+Backend+Explorer" />
+</h2>
 
 ---
 
@@ -17,7 +16,7 @@
 
 - 🎓 I'm a BE graduate in **Electronics and Communication Engineering**
 - 💻 Passionate about building **scalable full-stack web applications**
-- 🔭 Currently learning advanced **MongoDB**, **React.js**
+- 🔭 Currently learning advanced **MongoDB**, **React.js**, and **Spring Boot**
 - ✨ Love working on creative UI and logic-based games
 - 🌱 Currently building: Personal portfolio + Open-source contributions
 
