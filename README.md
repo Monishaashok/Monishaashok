@@ -1,64 +1,60 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<!-- Monisha's GitHub Profile ReadMe -->
 
-<p align="center">I'm Monisha A — an aspiring Java Full Stack Developer passionate about web development, UI design, and building cool projects!</p>
+<p align="center">
+  <img src="https://github.com/monishaashok/monishaashok/blob/main/banner.gif" alt="Coding Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Monisha A</h1>
+<h3 align="center">🚀 Java Full Stack Developer | Frontend Enthusiast | Backend Explorer</h3>
 
 ---
 
-### 🛠 Tech Stack
+### 👩‍💻 About Me
+
+- 🎓 I'm a BE graduate in **Electronics and Communication Engineering**
+- 💻 Passionate about building **scalable full-stack web applications**
+- 🔭 Currently learning advanced **Spring Boot**, **React.js**, and **Microservices**
+- ✨ Love working on creative UI and logic-based games
+- 🌱 Currently building: Personal portfolio + Open-source contributions
+- 🎯 Goal: To become a **solution-driven full stack developer** in a top tech company
+
+---
+
+### 🧩 Featured Game Project
+
+🎮 **Memory Flip Game**  
+🧠 Test your brain and match the emoji pairs before time runs out!
+
+👉 [Play Now](https://monishaashok.github.io/memory-game/)
+
+---
+
+### 🚀 Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img src="https://skillicons.dev/icons?i=html,css" height="60" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,javascript,nodejs,mongodb,git,github,vscode" alt="tech stack icons" />
 </div>
 
 ---
 
-### 📬 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/in/monishaa">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://instagram.com/nizhalhandmade">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:monishaa@example.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
+### 📂 Projects
+
+| Name                     | Tech Stack                  | Description                                      |
+|--------------------------|-----------------------------|--------------------------------------------------|
+| 🧠 Emoji Memory Game     | HTML, CSS, JavaScript       | Fun memory game with emoji matching and timer.   |
+| 🌐 Event Registration    | MERN Stack                  | Full-stack event form with real-time validation. |
+| 🧾 Blood Group Detection | ML, Python, Flask           | Fingerprint-based blood group detector app.      |
+| 🎓 Portfolio Website     | HTML, CSS, JavaScript       | Personal portfolio hosted with GitHub Pages.     |
 
 ---
 
-### 🔥 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=monishaa&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=monishaa&theme=dracula" height="150" />
-</div>
+### 📫 Let's Connect!
+
+- 📧 Email: monishaashok@example.com  
+- 💼 LinkedIn: [linkedin.com/in/monisha-a](https://www.linkedin.com/in/monisha-a)  
+- 🛠️ GitHub: [github.com/monishaashok](https://github.com/monishaashok)
 
 ---
 
-### 🧠 About Me
-
-- 👩‍💻 Java Full Stack Developer | React & Node.js enthusiast  
-- 🎓 BE ECE | Interested in DBMS, Digital, and VLSI  
-- 🛍️ Founder of **Nizhal Handmade** – Handmade bracelets and accessories  
-- 🧪 Built projects in web, game, and academic domains  
-- 💡 Preparing for Java full stack developer interviews  
-
----
-
-### 🚀 Projects
-
-| Project                        | Tech Stack            
-|-------------------------------|-------------------------
-| 🛒 Flipkart Clone             | HTML, CSS, JS, MySQL    
-| 📝 Form Validation System     | React, Node.js, MongoDB 
-| 🌸 Nizhal Shopping Website    | HTML, CSS, JS           
-| 🎮 Snake Game (JS)            | HTML, CSS, JavaScript  
-| 📊 Mark Calculator            | HTML, JS                
-| 💼 React Portfolio            | React, CSS              
-
----
+<h3 align="center">Thanks for visiting! ⭐ Keep exploring and keep coding!</h3>
 
