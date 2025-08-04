@@ -28,11 +28,16 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack (Animated)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,javascript,nodejs,mongodb,git,github,vscode" alt="tech stack icons" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajatdiptabiswas/rajatdiptabiswas/main/images/html.gif" width="60px" title="HTML" />
+  <img src="https://raw.githubusercontent.com/rajatdiptabiswas/rajatdiptabiswas/main/images/css.gif" width="60px" title="CSS" />
+  <img src="https://raw.githubusercontent.com/rajatdiptabiswas/rajatdiptabiswas/main/images/js.gif" width="60px" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/rajatdiptabiswas/rajatdiptabiswas/main/images/java.gif" width="60px" title="Java" />
+  <img src="https://raw.githubusercontent.com/Juxtaflux/dev-icons/main/database-mysql.gif" width="60px" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px" title="Express.js" />
+</p>
 
 ---
 
@@ -40,10 +45,10 @@
 
 | Name                     | Tech Stack                  | Description                                      |
 |--------------------------|-----------------------------|--------------------------------------------------|
-| 🛒 Flipkart Clone        | HTML, CSS, JavaScript       | e-commerce web application that mimics the user  |
+| 🛒 Flipkart Clone        | HTML, CSS, JavaScript       | E-commerce web application that mimics the Flipkart user experience |
 | 🌐 Event Registration    | MERN Stack                  | Full-stack event form with real-time validation. |
-| 🎓 Mark Calculator       | HTML,CSS,Javascript         | web-based tool that allows students to enter marks|     |
-| 🎓 Portfolio Website     | HTML, CSS, JavaScript       | Personal portfolio hosted with GitHub Pages.     |
+| 🎓 Mark Calculator       | HTML, CSS, JavaScript       | Web-based tool that allows students to enter marks and calculate total, average, and grade |
+| 🧾 Portfolio Website     | HTML, CSS, JavaScript       | Personal portfolio hosted with GitHub Pages.     |
 
 ---
 
@@ -55,5 +60,6 @@
 
 ---
 
-<h3 align="center">Thanks for visiting! ⭐ Keep exploring and keep coding!</h3>
+<h3 align="center">✨ Thanks for visiting! ⭐ Keep exploring and keep coding! ✨</h3>
+
 
