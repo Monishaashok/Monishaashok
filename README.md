@@ -7,7 +7,7 @@
 <div align="center">
 
   <h1 style="color:#8e44ad;">Hi 👋, I'm <span style="color:#2980b9;">Monisha A</span></h1>
-  <h3 style="color:#16a085;">🚀 Java Full Stack Developer | Frontend Enthusiast | Backend Explorer</h3>
+  <h3 style="color:#16a085;">🚀 Java Full Stack Developer | Frontend Enthusiast </h3>
 
 </div>
 
