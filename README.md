@@ -13,10 +13,9 @@
 
 - 🎓 I'm a BE graduate in **Electronics and Communication Engineering**
 - 💻 Passionate about building **scalable full-stack web applications**
-- 🔭 Currently learning advanced **Spring Boot**, **React.js**, and **Microservices**
+- 🔭 Currently learning advanced **MongoDB**, **React.js**
 - ✨ Love working on creative UI and logic-based games
 - 🌱 Currently building: Personal portfolio + Open-source contributions
-- 🎯 Goal: To become a **solution-driven full stack developer** in a top tech company
 
 ---
 
@@ -41,17 +40,17 @@
 
 | Name                     | Tech Stack                  | Description                                      |
 |--------------------------|-----------------------------|--------------------------------------------------|
-| 🧠 Emoji Memory Game     | HTML, CSS, JavaScript       | Fun memory game with emoji matching and timer.   |
+| 🛒 Flipkart Clone        | HTML, CSS, JavaScript       | e-commerce web application that mimics the user  |
 | 🌐 Event Registration    | MERN Stack                  | Full-stack event form with real-time validation. |
-| 🧾 Blood Group Detection | ML, Python, Flask           | Fingerprint-based blood group detector app.      |
+| 🎓 Mark Calculator       | HTML,CSS,Javascript         | web-based tool that allows students to enter marks|     |
 | 🎓 Portfolio Website     | HTML, CSS, JavaScript       | Personal portfolio hosted with GitHub Pages.     |
 
 ---
 
 ### 📫 Let's Connect!
 
-- 📧 Email: monishaashok@example.com  
-- 💼 LinkedIn: [linkedin.com/in/monisha-a](https://www.linkedin.com/in/monisha-a)  
+- 📧 Email: monishasok2104@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/monisha-a](https://www.linkedin.com/in/monisha2121)  
 - 🛠️ GitHub: [github.com/monishaashok](https://github.com/monishaashok)
 
 ---
