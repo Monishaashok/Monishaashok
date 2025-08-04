@@ -51,14 +51,14 @@
 
 ### 🚀 Projects
 
-| Project                        | Tech Stack              | Link |
-|-------------------------------|-------------------------|------|
-| 🛒 Flipkart Clone             | HTML, CSS, JS, MySQL    | [View Repo](https://github.com/monishaa/flipkart-clone) |
-| 📝 Form Validation System     | React, Node.js, MongoDB | [View Repo](https://github.com/monishaa/form-validation) |
-| 🌸 Nizhal Shopping Website    | HTML, CSS, JS           | [View Site](https://monishaa.github.io/nizhal) |
-| 🎮 Snake Game (JS)            | HTML, CSS, JavaScript   | [Play Now](https://monishaa.github.io/snake-game) |
-| 📊 Mark Calculator            | HTML, JS                | [View Repo](https://github.com/monishaa/mark-calculator) |
-| 💼 React Portfolio            | React, CSS              | [View Site](https://monishaa.github.io/portfolio) |
+| Project                        | Tech Stack            
+|-------------------------------|-------------------------
+| 🛒 Flipkart Clone             | HTML, CSS, JS, MySQL    
+| 📝 Form Validation System     | React, Node.js, MongoDB 
+| 🌸 Nizhal Shopping Website    | HTML, CSS, JS           
+| 🎮 Snake Game (JS)            | HTML, CSS, JavaScript  
+| 📊 Mark Calculator            | HTML, JS                
+| 💼 React Portfolio            | React, CSS              
 
 ---
 
@@ -67,5 +67,4 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monishaa/monishaa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monishaa/monishaa/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/monishaa/monishaa/output/pacman-contribution-graph.svg">
 </picture>
