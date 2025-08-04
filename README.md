@@ -4,8 +4,12 @@
   <img src="https://github.com/monishaashok/monishaashok/blob/main/banner.gif" alt="Coding Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Monisha A</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Frontend Enthusiast | Backend Explorer</h3>
+<div align="center">
+
+  <h1 style="color:#8e44ad;">Hi 👋, I'm <span style="color:#2980b9;">Monisha A</span></h1>
+  <h3 style="color:#16a085;">🚀 Java Full Stack Developer | Frontend Enthusiast | Backend Explorer</h3>
+
+</div>
 
 ---
 
@@ -28,15 +32,15 @@
 
 ---
 
-### 🚀 Tech Stack (Animated)
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajatdiptabiswas/rajatdiptabiswas/main/images/html.gif" width="60px" title="HTML" />
-  <img src="https://raw.githubusercontent.com/rajatdiptabiswas/rajatdiptabiswas/main/images/css.gif" width="60px" title="CSS" />
-  <img src="https://raw.githubusercontent.com/rajatdiptabiswas/rajatdiptabiswas/main/images/js.gif" width="60px" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/rajatdiptabiswas/rajatdiptabiswas/main/images/java.gif" width="60px" title="Java" />
-  <img src="https://raw.githubusercontent.com/Juxtaflux/dev-icons/main/database-mysql.gif" width="60px" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60px" title="Express.js" />
 </p>
 
 ---
@@ -61,5 +65,3 @@
 ---
 
 <h3 align="center">✨ Thanks for visiting! ⭐ Keep exploring and keep coding! ✨</h3>
-
-
