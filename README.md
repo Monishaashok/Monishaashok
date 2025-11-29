@@ -16,16 +16,9 @@
 
 - 🎓 I'm a BE graduate in **Electronics and Communication Engineering**
 - 💻 Passionate about building **scalable full-stack web applications**
-- 🔭 Currently learning advanced **MongoDB**, **React.js**, and **Spring Boot**
 - ✨ Love working on creative UI and logic-based games
-- 🌱 Currently building: Personal portfolio + Open-source contributions
-
 ---
 
-### 🧩 Featured Game Project
-
-🎮 **Memory Flip Game**  
-🧠 Test your brain and match the emoji pairs before time runs out!
 
 👉 [Play Now](https://monishaashok.github.io/memory-game/)
 
